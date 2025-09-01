@@ -30,7 +30,7 @@ python-number-guessing-game/
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/python-number-guessing-game.git
+git clone https://github.com/YashKumarSharma646/python-number-guessing-game.git
 
 # Navigate into the folder
 cd python-number-guessing-game
